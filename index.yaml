@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   activiti-cloud-query-graphql-notifications:
   - apiVersion: v1
-    created: 2018-11-06T10:37:16.31693515Z
+    created: 2018-11-06T10:41:07.395647095Z
     description: A Helm chart for Activiti Cloud GraphQL Notifications
     digest: 4c8ab32361b7cdda2984b87845d5cb61e05be2af235a2764d189357baf033e4c
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -11,7 +11,7 @@ entries:
     - activiti-cloud-query-graphql-notifications-1.0.44.tgz
     version: 1.0.44
   - apiVersion: v1
-    created: 2018-11-06T10:37:16.316492888Z
+    created: 2018-11-06T10:41:07.395306116Z
     description: A Helm chart for Activiti Cloud GraphQL Notifications
     digest: b34759306003474eb4e97e0ce639c25ee145dd37c5d3f62bd3138cb244775e8f
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -22,7 +22,16 @@ entries:
   activiti-cloud-query-graphql-platform:
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-11-06T10:37:16.328457778Z
+    created: 2018-11-06T10:41:07.411977587Z
+    description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
+    digest: f28f5cfd799ca8d730539f680cc39d4ec9c181456324301317a699d61fc565d6
+    name: activiti-cloud-query-graphql-platform
+    urls:
+    - activiti-cloud-query-graphql-platform-7.0.3.tgz
+    version: 7.0.3
+  - apiVersion: v1
+    appVersion: 7.0.0
+    created: 2018-11-06T10:41:07.406871213Z
     description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
     digest: b5885d679c6be797a1c58584acbdf1a1accad4c82853c28ea09e8771581b766e
     name: activiti-cloud-query-graphql-platform
@@ -31,7 +40,7 @@ entries:
     version: 7.0.2
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-11-06T10:37:16.324415673Z
+    created: 2018-11-06T10:41:07.402992358Z
     description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
     digest: 074f62894295598d24e8729050b98832b2dcb82c009f329295073fb105b1ddc4
     name: activiti-cloud-query-graphql-platform
@@ -40,7 +49,7 @@ entries:
     version: 7.0.1
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-11-06T10:37:16.320667297Z
+    created: 2018-11-06T10:41:07.399216369Z
     description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
     digest: 837c70e6d895062338224219f49d9ac8a291fb62a1483e8c68c10bf3807a2ee9
     name: activiti-cloud-query-graphql-platform
@@ -49,7 +58,7 @@ entries:
     version: 7.0.0
   activiti-cloud-query-graphql-query:
   - apiVersion: v1
-    created: 2018-11-06T10:37:16.328858028Z
+    created: 2018-11-06T10:41:07.412348941Z
     description: A Helm chart for Activiti Cloud GraphQL Query
     digest: ab8727ad3db6f4d86908a02842bb5bc91583484a452b42d8dc1613c2284f134b
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -59,7 +68,7 @@ entries:
     version: 1.0.56
   activiti-cloud-query-graphql-subscriptions:
   - apiVersion: v1
-    created: 2018-11-06T10:37:16.329295385Z
+    created: 2018-11-06T10:41:07.412679284Z
     description: A Helm chart for Activiti Cloud GraphQL Subscriptions
     digest: 0860cb4b19c44d91bcd6fd657f5479416afefe8c3d7e79bc324551764b1f1db6
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -67,4 +76,4 @@ entries:
     urls:
     - activiti-cloud-query-graphql-subscriptions-1.0.41.tgz
     version: 1.0.41
-generated: 2018-11-06T10:37:16.315995633Z
+generated: 2018-11-06T10:41:07.394740282Z
