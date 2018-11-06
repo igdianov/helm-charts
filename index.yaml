@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   activiti-cloud-query-graphql-notifications:
   - apiVersion: v1
-    created: 2018-11-06T06:39:27.838098146Z
+    created: 2018-11-06T10:24:48.692961416Z
     description: A Helm chart for Activiti Cloud GraphQL Notifications
     digest: 4c8ab32361b7cdda2984b87845d5cb61e05be2af235a2764d189357baf033e4c
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -11,7 +11,7 @@ entries:
     - activiti-cloud-query-graphql-notifications-1.0.44.tgz
     version: 1.0.44
   - apiVersion: v1
-    created: 2018-11-06T06:39:27.837652112Z
+    created: 2018-11-06T10:24:48.692593134Z
     description: A Helm chart for Activiti Cloud GraphQL Notifications
     digest: b34759306003474eb4e97e0ce639c25ee145dd37c5d3f62bd3138cb244775e8f
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -22,7 +22,7 @@ entries:
   activiti-cloud-query-graphql-platform:
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-11-06T06:39:27.864914174Z
+    created: 2018-11-06T10:24:48.700238495Z
     description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
     digest: 074f62894295598d24e8729050b98832b2dcb82c009f329295073fb105b1ddc4
     name: activiti-cloud-query-graphql-platform
@@ -31,11 +31,21 @@ entries:
     version: 7.0.1
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-11-06T06:39:27.860952739Z
+    created: 2018-11-06T10:24:48.696517417Z
     description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
     digest: 837c70e6d895062338224219f49d9ac8a291fb62a1483e8c68c10bf3807a2ee9
     name: activiti-cloud-query-graphql-platform
     urls:
     - activiti-cloud-query-graphql-platform-7.0.0.tgz
     version: 7.0.0
-generated: 2018-11-06T06:39:27.83702013Z
+  activiti-cloud-query-graphql-query:
+  - apiVersion: v1
+    created: 2018-11-06T10:24:48.700595427Z
+    description: A Helm chart for Activiti Cloud GraphQL Query
+    digest: ab8727ad3db6f4d86908a02842bb5bc91583484a452b42d8dc1613c2284f134b
+    icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
+    name: activiti-cloud-query-graphql-query
+    urls:
+    - activiti-cloud-query-graphql-query-1.0.56.tgz
+    version: 1.0.56
+generated: 2018-11-06T10:24:48.691986436Z
