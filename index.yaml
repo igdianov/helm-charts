@@ -3,11 +3,11 @@ entries:
   activiti-cloud-query-graphql-platform:
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-11-06T01:11:05.35225322Z
+    created: 2018-11-06T01:52:43.60747569Z
     description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
-    digest: 8107c14c01b9f9477993d0a283ab3d3da728285887d7c0b6f87f5b7f12797f4e
+    digest: 8ea70e42ffcc64c24346de0e00b2c8208e5b21704513eb5f1c17992ea6bbed26
     name: activiti-cloud-query-graphql-platform
     urls:
     - activiti-cloud-query-graphql-platform-7.0.0.tgz
     version: 7.0.0
-generated: 2018-11-06T01:11:05.348830104Z
+generated: 2018-11-06T01:52:43.603958717Z
