@@ -2,7 +2,16 @@ apiVersion: v1
 entries:
   activiti-cloud-query-graphql-notifications:
   - apiVersion: v1
-    created: 2018-11-15T02:40:09.306717479Z
+    created: 2018-11-15T02:42:47.550492853Z
+    description: A Helm chart for Activiti Cloud GraphQL Notifications
+    digest: a890d70644fc3a78c0e031d22c199ba0998e9c6ecc39ca68278b68fca57f0ab8
+    icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
+    name: activiti-cloud-query-graphql-notifications
+    urls:
+    - activiti-cloud-query-graphql-notifications-1.0.45.tgz
+    version: 1.0.45
+  - apiVersion: v1
+    created: 2018-11-15T02:42:47.550176183Z
     description: A Helm chart for Activiti Cloud GraphQL Notifications
     digest: 4c8ab32361b7cdda2984b87845d5cb61e05be2af235a2764d189357baf033e4c
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -11,7 +20,7 @@ entries:
     - activiti-cloud-query-graphql-notifications-1.0.44.tgz
     version: 1.0.44
   - apiVersion: v1
-    created: 2018-11-15T02:40:09.306387714Z
+    created: 2018-11-15T02:42:47.549840038Z
     description: A Helm chart for Activiti Cloud GraphQL Notifications
     digest: b34759306003474eb4e97e0ce639c25ee145dd37c5d3f62bd3138cb244775e8f
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -22,7 +31,7 @@ entries:
   activiti-cloud-query-graphql-platform:
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-11-15T02:40:09.327649983Z
+    created: 2018-11-15T02:42:47.570385621Z
     description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
     digest: 2f32897bf1eb4ad0561151037bc8036a95987d294a63eced290fff3426d031d5
     name: activiti-cloud-query-graphql-platform
@@ -31,7 +40,7 @@ entries:
     version: 7.0.5
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-11-15T02:40:09.325060364Z
+    created: 2018-11-15T02:42:47.568108072Z
     description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
     digest: aeff6fcc6ff520e46a7dbd61c9973b1332d34032706b2ad09e0ec3001c407c8c
     name: activiti-cloud-query-graphql-platform
@@ -40,7 +49,7 @@ entries:
     version: 7.0.4
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-11-15T02:40:09.322777752Z
+    created: 2018-11-15T02:42:47.565879284Z
     description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
     digest: f28f5cfd799ca8d730539f680cc39d4ec9c181456324301317a699d61fc565d6
     name: activiti-cloud-query-graphql-platform
@@ -49,7 +58,7 @@ entries:
     version: 7.0.3
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-11-15T02:40:09.317215726Z
+    created: 2018-11-15T02:42:47.561353886Z
     description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
     digest: b5885d679c6be797a1c58584acbdf1a1accad4c82853c28ea09e8771581b766e
     name: activiti-cloud-query-graphql-platform
@@ -58,7 +67,7 @@ entries:
     version: 7.0.2
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-11-15T02:40:09.313330021Z
+    created: 2018-11-15T02:42:47.557094658Z
     description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
     digest: 074f62894295598d24e8729050b98832b2dcb82c009f329295073fb105b1ddc4
     name: activiti-cloud-query-graphql-platform
@@ -67,7 +76,7 @@ entries:
     version: 7.0.1
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-11-15T02:40:09.309858598Z
+    created: 2018-11-15T02:42:47.553742729Z
     description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
     digest: 837c70e6d895062338224219f49d9ac8a291fb62a1483e8c68c10bf3807a2ee9
     name: activiti-cloud-query-graphql-platform
@@ -76,7 +85,7 @@ entries:
     version: 7.0.0
   activiti-cloud-query-graphql-query:
   - apiVersion: v1
-    created: 2018-11-15T02:40:09.328257524Z
+    created: 2018-11-15T02:42:47.571056788Z
     description: A Helm chart for Activiti Cloud GraphQL Query
     digest: 562d5d7aedeb38779883b9e0df3e8eeca71f895df0bc7669fd410fd2b3faac4d
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -85,7 +94,7 @@ entries:
     - activiti-cloud-query-graphql-query-1.0.57.tgz
     version: 1.0.57
   - apiVersion: v1
-    created: 2018-11-15T02:40:09.327965729Z
+    created: 2018-11-15T02:42:47.570737717Z
     description: A Helm chart for Activiti Cloud GraphQL Query
     digest: ab8727ad3db6f4d86908a02842bb5bc91583484a452b42d8dc1613c2284f134b
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -95,7 +104,7 @@ entries:
     version: 1.0.56
   activiti-cloud-query-graphql-subscriptions:
   - apiVersion: v1
-    created: 2018-11-15T02:40:09.328905596Z
+    created: 2018-11-15T02:42:47.571689177Z
     description: A Helm chart for Activiti Cloud GraphQL Subscriptions
     digest: 848657570ab1618d38966d8675102ff73a742b098f735c93bb2a3c9b3315ff01
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -104,7 +113,7 @@ entries:
     - activiti-cloud-query-graphql-subscriptions-1.0.42.tgz
     version: 1.0.42
   - apiVersion: v1
-    created: 2018-11-15T02:40:09.328598607Z
+    created: 2018-11-15T02:42:47.571364635Z
     description: A Helm chart for Activiti Cloud GraphQL Subscriptions
     digest: 0860cb4b19c44d91bcd6fd657f5479416afefe8c3d7e79bc324551764b1f1db6
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -115,7 +124,7 @@ entries:
   example-cloud-connector:
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-11-15T02:40:09.329978903Z
+    created: 2018-11-15T02:42:47.572803394Z
     description: A Helm chart for Activiti Cloud Example Connector
     digest: 05808ba1a740894cc558d1c96049fd9839c60e34a9ba1142198161ea9bdc674a
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -125,7 +134,7 @@ entries:
     version: 1.0.3
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-11-15T02:40:09.329633589Z
+    created: 2018-11-15T02:42:47.572441367Z
     description: A Helm chart for Activiti Cloud Example Connector
     digest: 73d3787ecb9effcfa34ca11d6ec33845e46077ce7cb6a70d0c37bcdd68220e89
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -135,7 +144,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-11-15T02:40:09.329237887Z
+    created: 2018-11-15T02:42:47.572035433Z
     description: A Helm chart for Activiti Cloud Example Connector
     digest: f9c1244bdc3b5f8ddee788673cf1b6b46c82ab7c06ed5afd6faf6d009534688d
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -143,4 +152,4 @@ entries:
     urls:
     - example-cloud-connector-1.0.1.tgz
     version: 1.0.1
-generated: 2018-11-15T02:40:09.305895376Z
+generated: 2018-11-15T02:42:47.549346281Z
