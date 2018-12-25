@@ -3,7 +3,17 @@ entries:
   activiti-cloud-application:
   - apiVersion: v1
     appVersion: 7.0.0.Beta3
-    created: 2018-12-25T06:33:44.875143919Z
+    created: 2018-12-25T06:40:49.498223482Z
+    description: Activiti Cloud Application Helm Chart for Kubernetes
+    digest: ee973b8bc77de282543e012110405e1c2b2e3098042bfaacdcadaef96f6bef53
+    icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
+    name: activiti-cloud-application
+    urls:
+    - activiti-cloud-application-7.0.12.tgz
+    version: 7.0.12
+  - apiVersion: v1
+    appVersion: 7.0.0.Beta3
+    created: 2018-12-25T06:40:49.491108408Z
     description: Activiti Cloud Application Helm Chart for Kubernetes
     digest: 81e82b0208807017918d066f59ebb5a2d183b7352d9c674a40f054864c3881ce
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -13,7 +23,7 @@ entries:
     version: 7.0.11
   - apiVersion: v1
     appVersion: 7.0.0.Beta3
-    created: 2018-12-25T06:33:44.866867983Z
+    created: 2018-12-25T06:40:49.482974202Z
     description: Activiti Cloud Application Helm Chart for Kubernetes
     digest: 962d0152a1867ed86f1ae8cb7865f5d7795835fc65bfc812e88ef30ae707e6f0
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -23,7 +33,7 @@ entries:
     version: 7.0.10
   - apiVersion: v1
     appVersion: 7.0.0.Beta3
-    created: 2018-12-25T06:33:44.895105664Z
+    created: 2018-12-25T06:40:49.518178178Z
     description: Activiti Cloud Application Helm Chart for Kubernetes
     digest: 497c37cdc72b73fca19f8af107cbf7713f82c489ffa031afc7d65b79dc809ce8
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -33,7 +43,7 @@ entries:
     version: 7.0.9
   - apiVersion: v1
     appVersion: 7.0.0.Beta3
-    created: 2018-12-25T06:33:44.887766504Z
+    created: 2018-12-25T06:40:49.51258646Z
     description: Activiti Cloud Application Helm Chart for Kubernetes
     digest: 2af76309567a1442411cf0482b42c97a4258a5469d982908d9178fd02b82452c
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -43,7 +53,7 @@ entries:
     version: 7.0.8
   - apiVersion: v1
     appVersion: 7.0.0.Beta3
-    created: 2018-12-25T06:33:44.881205817Z
+    created: 2018-12-25T06:40:49.506675721Z
     description: Activiti Cloud Application Helm Chart for Kubernetes
     digest: c98c6bdd6089676a6d881748a460fe7f2fe6a43ccbd90dd9a5ed9b63cc28707b
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -53,7 +63,7 @@ entries:
     version: 7.0.7
   activiti-cloud-query-graphql-notifications:
   - apiVersion: v1
-    created: 2018-12-25T06:33:44.89665148Z
+    created: 2018-12-25T06:40:49.519654136Z
     description: A Helm chart for Activiti Cloud GraphQL Notifications
     digest: 04ef6de3f0bb92931ef5fcd29e6e38b9882fbee527c5cc9b0365d5b8cb90cda7
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -62,7 +72,7 @@ entries:
     - activiti-cloud-query-graphql-notifications-1.0.47.tgz
     version: 1.0.47
   - apiVersion: v1
-    created: 2018-12-25T06:33:44.896378336Z
+    created: 2018-12-25T06:40:49.519387098Z
     description: A Helm chart for Activiti Cloud GraphQL Notifications
     digest: b4532fd179a0faa4183e663d40bd1c6b7b19ff475913e4a68febbe8c69d60677
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -71,7 +81,7 @@ entries:
     - activiti-cloud-query-graphql-notifications-1.0.46.tgz
     version: 1.0.46
   - apiVersion: v1
-    created: 2018-12-25T06:33:44.896072469Z
+    created: 2018-12-25T06:40:49.519101597Z
     description: A Helm chart for Activiti Cloud GraphQL Notifications
     digest: a890d70644fc3a78c0e031d22c199ba0998e9c6ecc39ca68278b68fca57f0ab8
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -80,7 +90,7 @@ entries:
     - activiti-cloud-query-graphql-notifications-1.0.45.tgz
     version: 1.0.45
   - apiVersion: v1
-    created: 2018-12-25T06:33:44.895779593Z
+    created: 2018-12-25T06:40:49.518802594Z
     description: A Helm chart for Activiti Cloud GraphQL Notifications
     digest: 4c8ab32361b7cdda2984b87845d5cb61e05be2af235a2764d189357baf033e4c
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -89,7 +99,7 @@ entries:
     - activiti-cloud-query-graphql-notifications-1.0.44.tgz
     version: 1.0.44
   - apiVersion: v1
-    created: 2018-12-25T06:33:44.895456987Z
+    created: 2018-12-25T06:40:49.518497965Z
     description: A Helm chart for Activiti Cloud GraphQL Notifications
     digest: b34759306003474eb4e97e0ce639c25ee145dd37c5d3f62bd3138cb244775e8f
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -100,7 +110,7 @@ entries:
   activiti-cloud-query-graphql-platform:
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-12-25T06:33:44.914930902Z
+    created: 2018-12-25T06:40:49.539189761Z
     description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
     digest: 2f32897bf1eb4ad0561151037bc8036a95987d294a63eced290fff3426d031d5
     name: activiti-cloud-query-graphql-platform
@@ -109,7 +119,7 @@ entries:
     version: 7.0.5
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-12-25T06:33:44.912069402Z
+    created: 2018-12-25T06:40:49.537010192Z
     description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
     digest: aeff6fcc6ff520e46a7dbd61c9973b1332d34032706b2ad09e0ec3001c407c8c
     name: activiti-cloud-query-graphql-platform
@@ -118,7 +128,7 @@ entries:
     version: 7.0.4
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-12-25T06:33:44.909955167Z
+    created: 2018-12-25T06:40:49.534883439Z
     description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
     digest: f28f5cfd799ca8d730539f680cc39d4ec9c181456324301317a699d61fc565d6
     name: activiti-cloud-query-graphql-platform
@@ -127,7 +137,7 @@ entries:
     version: 7.0.3
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-12-25T06:33:44.906450822Z
+    created: 2018-12-25T06:40:49.531385954Z
     description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
     digest: b5885d679c6be797a1c58584acbdf1a1accad4c82853c28ea09e8771581b766e
     name: activiti-cloud-query-graphql-platform
@@ -136,7 +146,7 @@ entries:
     version: 7.0.2
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-12-25T06:33:44.903155387Z
+    created: 2018-12-25T06:40:49.527706376Z
     description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
     digest: 074f62894295598d24e8729050b98832b2dcb82c009f329295073fb105b1ddc4
     name: activiti-cloud-query-graphql-platform
@@ -145,7 +155,7 @@ entries:
     version: 7.0.1
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-12-25T06:33:44.899949636Z
+    created: 2018-12-25T06:40:49.523117914Z
     description: Activiti Cloud Query Graphql Helm Chart for Kubernetes
     digest: 837c70e6d895062338224219f49d9ac8a291fb62a1483e8c68c10bf3807a2ee9
     name: activiti-cloud-query-graphql-platform
@@ -154,7 +164,7 @@ entries:
     version: 7.0.0
   activiti-cloud-query-graphql-query:
   - apiVersion: v1
-    created: 2018-12-25T06:33:44.916985435Z
+    created: 2018-12-25T06:40:49.540405642Z
     description: A Helm chart for Activiti Cloud GraphQL Query
     digest: 05149c58a8f6a9d246b4be09c641fd549a1e544ca32d9c54b4d391095230f242
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -163,7 +173,7 @@ entries:
     - activiti-cloud-query-graphql-query-1.0.61.tgz
     version: 1.0.61
   - apiVersion: v1
-    created: 2018-12-25T06:33:44.916672577Z
+    created: 2018-12-25T06:40:49.540091902Z
     description: A Helm chart for Activiti Cloud GraphQL Query
     digest: e707d54f4ac0f923f1e28edb712a8e5d41f3ea0c5f68df1ceb9abbeb52db73c4
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -172,7 +182,7 @@ entries:
     - activiti-cloud-query-graphql-query-1.0.59.tgz
     version: 1.0.59
   - apiVersion: v1
-    created: 2018-12-25T06:33:44.916374349Z
+    created: 2018-12-25T06:40:49.53981398Z
     description: A Helm chart for Activiti Cloud GraphQL Query
     digest: 562d5d7aedeb38779883b9e0df3e8eeca71f895df0bc7669fd410fd2b3faac4d
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -181,7 +191,7 @@ entries:
     - activiti-cloud-query-graphql-query-1.0.57.tgz
     version: 1.0.57
   - apiVersion: v1
-    created: 2018-12-25T06:33:44.915923066Z
+    created: 2018-12-25T06:40:49.539503082Z
     description: A Helm chart for Activiti Cloud GraphQL Query
     digest: ab8727ad3db6f4d86908a02842bb5bc91583484a452b42d8dc1613c2284f134b
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -191,7 +201,7 @@ entries:
     version: 1.0.56
   activiti-cloud-query-graphql-subscriptions:
   - apiVersion: v1
-    created: 2018-12-25T06:33:44.91818346Z
+    created: 2018-12-25T06:40:49.54153976Z
     description: A Helm chart for Activiti Cloud GraphQL Subscriptions
     digest: cfcc9f771ff1219f749f2c23611e80c374dd2707ca5b3ca86e64445b957c6f8b
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -200,7 +210,7 @@ entries:
     - activiti-cloud-query-graphql-subscriptions-1.0.44.tgz
     version: 1.0.44
   - apiVersion: v1
-    created: 2018-12-25T06:33:44.917906457Z
+    created: 2018-12-25T06:40:49.541254702Z
     description: A Helm chart for Activiti Cloud GraphQL Subscriptions
     digest: 12a25e8df3fb7832bf29088c3b18b6b499c162cf6eedf40f77441bb66ae7d38b
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -209,7 +219,7 @@ entries:
     - activiti-cloud-query-graphql-subscriptions-1.0.43.tgz
     version: 1.0.43
   - apiVersion: v1
-    created: 2018-12-25T06:33:44.917602821Z
+    created: 2018-12-25T06:40:49.540981098Z
     description: A Helm chart for Activiti Cloud GraphQL Subscriptions
     digest: 848657570ab1618d38966d8675102ff73a742b098f735c93bb2a3c9b3315ff01
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -218,7 +228,7 @@ entries:
     - activiti-cloud-query-graphql-subscriptions-1.0.42.tgz
     version: 1.0.42
   - apiVersion: v1
-    created: 2018-12-25T06:33:44.917311932Z
+    created: 2018-12-25T06:40:49.540681504Z
     description: A Helm chart for Activiti Cloud GraphQL Subscriptions
     digest: 0860cb4b19c44d91bcd6fd657f5479416afefe8c3d7e79bc324551764b1f1db6
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -229,7 +239,7 @@ entries:
   example-cloud-connector:
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-12-25T06:33:44.91925998Z
+    created: 2018-12-25T06:40:49.542580762Z
     description: A Helm chart for Activiti Cloud Example Connector
     digest: 05808ba1a740894cc558d1c96049fd9839c60e34a9ba1142198161ea9bdc674a
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -239,7 +249,7 @@ entries:
     version: 1.0.3
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-12-25T06:33:44.918924737Z
+    created: 2018-12-25T06:40:49.542233099Z
     description: A Helm chart for Activiti Cloud Example Connector
     digest: 73d3787ecb9effcfa34ca11d6ec33845e46077ce7cb6a70d0c37bcdd68220e89
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -249,7 +259,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 7.0.0
-    created: 2018-12-25T06:33:44.918543181Z
+    created: 2018-12-25T06:40:49.54188428Z
     description: A Helm chart for Activiti Cloud Example Connector
     digest: f9c1244bdc3b5f8ddee788673cf1b6b46c82ab7c06ed5afd6faf6d009534688d
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -257,4 +267,4 @@ entries:
     urls:
     - example-cloud-connector-1.0.1.tgz
     version: 1.0.1
-generated: 2018-12-25T06:33:44.860602278Z
+generated: 2018-12-25T06:40:49.47655685Z
